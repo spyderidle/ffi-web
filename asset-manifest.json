@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ffi-web/static/css/main.d338cde0.css",
+    "main.js": "/ffi-web/static/js/main.97528191.js",
+    "static/media/heroImage.jpg": "/ffi-web/static/media/heroImage.371ae151fd1348e2f7f1.jpg",
+    "static/media/slick.svg": "/ffi-web/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ffi-web/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ffi-web/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ffi-web/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ffi-web/index.html",
+    "main.d338cde0.css.map": "/ffi-web/static/css/main.d338cde0.css.map",
+    "main.97528191.js.map": "/ffi-web/static/js/main.97528191.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d338cde0.css",
+    "static/js/main.97528191.js"
+  ]
+}

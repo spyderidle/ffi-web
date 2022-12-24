@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/ffi-web/static/css/main.9dd96aed.css",
-    "main.js": "/ffi-web/static/js/main.942130fc.js",
+    "main.js": "/ffi-web/static/js/main.d2d78484.js",
     "static/media/heroImage.jpg": "/ffi-web/static/media/heroImage.371ae151fd1348e2f7f1.jpg",
+    "static/media/ffi_wordart.png": "/ffi-web/static/media/ffi_wordart.82b2639b481cd44ba2ec.png",
     "static/media/logo.png": "/ffi-web/static/media/logo.63f4c2bf2eb99d62d6a1.png",
     "static/media/slick.svg": "/ffi-web/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/ffi-web/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -10,10 +11,10 @@
     "static/media/slick.woff": "/ffi-web/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ffi-web/index.html",
     "main.9dd96aed.css.map": "/ffi-web/static/css/main.9dd96aed.css.map",
-    "main.942130fc.js.map": "/ffi-web/static/js/main.942130fc.js.map"
+    "main.d2d78484.js.map": "/ffi-web/static/js/main.d2d78484.js.map"
   },
   "entrypoints": [
     "static/css/main.9dd96aed.css",
-    "static/js/main.942130fc.js"
+    "static/js/main.d2d78484.js"
   ]
 }

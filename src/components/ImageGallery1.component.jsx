@@ -8,7 +8,7 @@ const imageGallery1 = [
         image: "https://ik.imagekit.io/g9jzyzcnt/img13.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1671869347335",
     },
     {
-        image: "https://ik.imagekit.io/g9jzyzcnt/img15.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1671869346890",
+        image: "https://ik.imagekit.io/g9jzyzcnt/1link_img6.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1672069660835",
     },
     {
         image: "https://ik.imagekit.io/g9jzyzcnt/img14.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1671869346543"
@@ -20,7 +20,10 @@ const imageGallery1 = [
         image: "https://ik.imagekit.io/g9jzyzcnt/img6.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1671869344996"
     },
     {
-        image: "https://ik.imagekit.io/g9jzyzcnt/img11.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1671869344934"
+        image: "https://ik.imagekit.io/g9jzyzcnt/1link_img1.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1672069660998"
+    },
+    {
+        image: "https://ik.imagekit.io/g9jzyzcnt/1st_link_2_img.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1672069660323"
     },
 ]
 

@@ -10,6 +10,11 @@ export const members = [
         image: "https://ik.imagekit.io/g9jzyzcnt/brajesh_meena__1_.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1671729634133"
     },
     {
+        name: "Yashfin Saeed",
+        position: "Co-Coordinator",
+        image: "https://ik.imagekit.io/g9jzyzcnt/yashfin_saeed.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1672117463026"
+    },
+    {
         name: "Chirag Mittal",
         position: "Treasurer",
         image: "https://ik.imagekit.io/g9jzyzcnt/chirag_mittal.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1671728606578"
@@ -30,9 +35,9 @@ export const members = [
         image: "https://ik.imagekit.io/g9jzyzcnt/smirti_barnawal__1_.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1671736922961"
     },
     {
-        name: "Rishabh Mishra",
-        position: "Chief Center Coordinator",
-        image: "https://ik.imagekit.io/g9jzyzcnt/rishab_mishra.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1671729633962"
+        name: "Sudheshna kundu",
+        position: "Umeed Coordinator",
+        image: "https://ik.imagekit.io/g9jzyzcnt/sudhesna_kudu.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1671731064554"
     },
     {
         name: "Lokesh Kumar",
@@ -41,15 +46,11 @@ export const members = [
     },
 
     {
-        name: "Sudheshna kundu",
-        position: "Umeed Coordinator",
-        image: "https://ik.imagekit.io/g9jzyzcnt/sudhesna_kudu.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1671731064554"
+        name: "Rishabh Mishra",
+        position: "Chief Center Coordinator",
+        image: "https://ik.imagekit.io/g9jzyzcnt/rishab_mishra.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1671729633962"
     },
-    {
-        name: "Rani Khatik",
-        position: "Blood Line Coordinator",
-        image: "https://ik.imagekit.io/g9jzyzcnt/rani_khatik.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1671731628923"
-    },
+    
     {
         name: "Surbhi Kishore",
         position: "Escape Coordinator",
